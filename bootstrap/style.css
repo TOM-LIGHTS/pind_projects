@@ -1,6 +1,17 @@
+<<<<<<< HEAD
 body::before{
     display: block;
     content: "";
     height: 110px;
 }
 *{box-sizing: border-box;}
+=======
+*{
+  box-sizing: border-box;
+}
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+>>>>>>> 8554bb5ba9c9317d36a71ae9540061049cc3f3a1
